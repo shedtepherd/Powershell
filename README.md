@@ -1,7 +1,5 @@
 # Powershell
 
-This repository is for my powershell scripts and notes
+This repository is for my PowerShell scripts and notes
 
-## Notes
-
-[Microsoft Powershell Online Documentation](https://docs.microsoft.com/en-us/powershell/)
+[Microsoft PowerShell Online Documentation](https://docs.microsoft.com/en-us/powershell/)
